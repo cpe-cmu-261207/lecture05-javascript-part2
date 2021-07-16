@@ -1,0 +1,20 @@
+{
+	"users": [
+		{
+			"email": "george.bluth@reqres.in",
+			"name": "George Bluth"
+		},
+		{
+			"email": "janet.weaver@reqres.in",
+			"name": "Janet Weaver"
+		},
+		{
+			"email": "charles.morris@reqres.in",
+			"name": "Charles Morris"
+		},
+		{
+			"email": "tracey.ramos@reqres.in",
+			"name": "Tracey Ramos"
+		}
+	]
+}
